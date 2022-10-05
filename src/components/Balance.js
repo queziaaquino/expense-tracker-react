@@ -1,8 +1,8 @@
 import React from 'react';
-import { GlobalContext } from '../context/GlobalState';
+//import { GlobalContext } from '../context/GlobalState';
 
 export const Balance = () => {
-  const {transactions}= useContext(GlobalContext);
+  //const {transactions}= useContext(GlobalContext);
 
   return (
     <div>
